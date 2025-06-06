@@ -2,6 +2,7 @@
 
 **`FullStack Developer`**
 
+
 Hello! My name is Anderson Medeiros, and I’m a fullstack developer with experience in projects that combine modern interface development and robust software architecture. I work on the back end using Java (Spring Boot), JavaScript, TypeScript, and Node.js. On the front end, I build efficient and user-friendly interfaces with React, Next.js, and TailwindCSS.
 
 I'm passionate about automation and artificial intelligence, focusing on tools like N8N, Zapier, and OpenAI. I also have experience with cloud infrastructure (AWS and Google Cloud) and agile methodologies.
